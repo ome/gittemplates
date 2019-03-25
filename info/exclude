@@ -4,4 +4,20 @@
 # exclude patterns (uncomment them if you want to use them):
 # *.[oa]
 # *~
+
+# Eclipse IDE settings
+.settings/
+
+ # IntelliJ IDE settings
+.idea/
+
+ # NetBeans IDE settings
+/.nb-gradle-properties
+/nb-configuration.xml
+.nb-gradle/
+
+ # Visual Studio IDE settings
+.vscode/
+
+# vi settings
 .*un~
